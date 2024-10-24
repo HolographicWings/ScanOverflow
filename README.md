@@ -21,9 +21,7 @@ Scan Overflow is a **Satisfactory** mod designed to improve the scanning system 
 - **Modifiable Wheel Sizes**: Two mod settings allow you to customize the number of items displayed per page for both the resource and object scanning wheels.
 - **Clientside**: The mod is entirely clientside, ensuring compatibility without affecting multiplayer servers.
 
-![InputKey](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/InputKey.webp)
-
-![ModSettings](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/ModSettings.webp)
+![GameplayScreenshot](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/GameplayScreenshot.webp)
 
 ## Changelogs
 
@@ -41,8 +39,10 @@ To configure the key used to cycle through pages:
 1. Go to the game Options menu.
 2. Navigate to the "Keybindings" section.
 3. Find the "Cycle Scan Pages" setting and assign your preferred key.
-   
+
 This key will allow you to switch between pages when using either the resource or object scanner.
+
+![InputKey](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/InputKey.webp)
 
 ### Setting Scan Wheel Sizes
 
@@ -55,6 +55,8 @@ To modify the number of items displayed per page:
    - **Object Scanner Page Size**: Controls the number of objects displayed per page. (Default: 5)
 
 These settings can help you optimize your scanning experience based on the number of resources and objects available in your game.
+
+![ModSettings](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/ModSettings.webp)
 
 ## Planned Features
 
