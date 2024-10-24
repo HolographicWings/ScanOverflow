@@ -21,7 +21,9 @@ Scan Overflow is a **Satisfactory** mod designed to improve the scanning system 
 - **Modifiable Wheel Sizes**: Two mod settings allow you to customize the number of items displayed per page for both the resource and object scanning wheels.
 - **Clientside**: The mod is entirely clientside, ensuring compatibility without affecting multiplayer servers.
 
-![GameplayScreenshot2](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/GameplayScreenshot2.webp)
+![InputKey](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/InputKey.webp)
+
+![ModSettings](https://raw.githubusercontent.com/HolographicWings/ScanOverflow/refs/heads/main/Screenshots/WEBP/ModSettings.webp)
 
 ## Changelogs
 
