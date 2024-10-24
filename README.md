@@ -61,7 +61,7 @@ These settings can help you optimize your scanning experience based on the numbe
 ## Planned Features
 
 - **Mouse wheel**: Usage of mouse wheel to navigate in the pages faster.
-- **Cancel Resource Scan**: Add the same cancel entry of the Object Scanner to the Resource Scanner.
+- **Cancel Resource Scan**: Add the same cancel entry of the Object Scanner to the Resource Scanner. (With a setting to enable or disable it)
 
 ## Support
 
