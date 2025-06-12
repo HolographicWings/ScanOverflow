@@ -1,15 +1,17 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
+	"GameVersion": ">=416835",
 	"FriendlyName": "Scan Overflow",
-	"Description": "Add a way to cycle ressources and objects in the scan wheel.",
+	"Description": "Add a way to cycle ressources and objects in the scan wheel",
 	"Category": "Modding",
-	"CreatedBy": "HolographicWings",
+	"CreatedBy": "Acxd, HolographicWings",
 	"CreatedByURL": "https://github.com/HolographicWings/ScanOverflow",
 	"DocsURL": "https://ficsit.app/mod/ScanOverflow",
 	"MarketplaceURL": "",
-	"SupportURL": "https://github.com/HolographicWings/ScanOverflow/issues",
+	"SupportURL": "https://discord.gg/pz2U6FvMat",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -24,10 +26,8 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.1",
+			"Enabled": true
 		}
-	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=365306"
+	]
 }
